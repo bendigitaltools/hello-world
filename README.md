@@ -1,2 +1,3 @@
 # hello-world
-My first repository and I am new to Github. Just exploring the same 
+New to GitHub and this is my first repository. Just started dabbling. 
+Guess there is more to explore 
